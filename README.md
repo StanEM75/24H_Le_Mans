@@ -1,6 +1,6 @@
 # 24 Hours Le Mans - Pre-Processing & DataViz
 
-![Project Image]([https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2](https://api.lemans.org/media/cache/api_news_large/assets/fileuploads/64/6c/646c741a5eeed.jpg))
+![Project Image](https://api.lemans.org/media/cache/api_news_large/assets/fileuploads/64/6c/646c741a5eeed.jpg)
 
 ## 🚀 Introduction
 
