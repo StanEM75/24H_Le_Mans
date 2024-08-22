@@ -1,4 +1,4 @@
-# 24 Hours Le Mans - DataViz and Machine Learning
+# 24 Hours Le Mans - Supervised Learning to monitor the performance of Toyota
 
 ![Project Image](https://www.lemans.org/media/cache/api_news_large/assets/fileuploads/61/22/61226cec58b0f.jpg)
 
