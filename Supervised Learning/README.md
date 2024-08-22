@@ -1,6 +1,6 @@
 # 24 Hours Le Mans - DataViz and Machine Learning
 
-![Project Image](https://global.toyota/pages/news/images/2017/12/19/WEC/001.jpg)
+![Project Image](https://scene7.toyota.eu/is/image/toyotaeurope/wec-2022-rd.3-1080:Medium-Landscape?ts=1663076364197&resMode=sharp2&op_usm=1.75,0.3,2,0)
 
 ## 🚀 Introduction
 
