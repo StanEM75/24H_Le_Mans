@@ -1,6 +1,6 @@
 # 24 Hours Le Mans - Pre-Processing & DataViz
 
-![Project Image](https://api.lemans.org/media/cache/api_news_large/assets/fileuploads/64/6c/646c741a5eeed.jpg)
+![Project Image](https://www.lifeventsgroup.com/images/sport-sport-mecanique-24h-du-mans-05.jpg)
 
 ## 🚀 Introduction
 
