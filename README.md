@@ -1,6 +1,6 @@
 # 24 Hours Le Mans - DataViz and Machine Learning
 
-![Project Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPACrqzfzpoany2ZLIImFLbfpE8izJsakDvw&s)
+![Project Image](https://api.lemans.org/media/cache/api_news_large/assets/fileuploads/64/6c/646c741a5eeed.jpg)
 
 ## 🚀 Introduction
 
